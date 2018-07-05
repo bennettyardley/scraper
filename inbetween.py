@@ -6,7 +6,7 @@ import urllib.request
 import pickle
 
 
-hunks = []
+ = []
 newLunks = []
 
 
