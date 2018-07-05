@@ -16,7 +16,7 @@ for div in data:
     blinks = div.findAll('a')
     for a in blinks:
         hunks.append(a['href'])
-countdown = len(    )
+countdown = len(hunks)
 
 for link in hunks:
     try:
